@@ -164,3 +164,4 @@ C:\_source\PsHelloAzure\PsHelloAzure\obj\Debug\netcoreapp3.1\staticwebassets\PsH
 C:\_source\PsHelloAzure\PsHelloAzure\obj\Debug\netcoreapp3.1\PsHelloAzure.dll
 C:\_source\PsHelloAzure\PsHelloAzure\obj\Debug\netcoreapp3.1\PsHelloAzure.pdb
 C:\_source\PsHelloAzure\PsHelloAzure\obj\Debug\netcoreapp3.1\PsHelloAzure.genruntimeconfig.cache
+C:\_source\PsHelloAzure\PsHelloAzure\obj\Debug\netcoreapp3.1\PsHelloAzure.csprojAssemblyReference.cache
